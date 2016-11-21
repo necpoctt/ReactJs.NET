@@ -1,3 +1,4 @@
 ﻿Reactjs.net
-Bu kodun tutorial adresi
-https://reactjs.net/getting-started/tutorial.html
+ 
+Demo
+<a href="http://rejshow.somee.com/" target="_blank">Demo</a>
